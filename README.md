@@ -34,6 +34,7 @@
 | [flutter-geolocator](https://github.com/Baseflow/flutter-geolocator) | 定位兼容，全平台|| 1k  |
 | [chewie](https://pub.flutter-io.cn/packages/chewie) | 视频播放 | | 1.1k  |
 | [permission_handler](https://pub.flutter-io.cn/packages/permission_handler) | 权限处理 | | 3.1k  |
+| [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) | 通知 | | 4.29k  |
 
 
 ## 教程
